@@ -1,8 +1,22 @@
-Apache License
-Version 2.0, January 2004
-http://www.apache.org/licenses/
 
-TERMS AND CONDITIONS FOR USE, REPRODUCTION, AND DISTRIBUTION
-...
+---
 
-For full license text, visit: https://www.apache.org/licenses/LICENSE-2.0
+### **3️⃣ CODE_OF_CONDUCT.md**
+Create a file named `CODE_OF_CONDUCT.md` with this content:
+
+```md
+# Contributor Covenant Code of Conduct
+
+## Our Pledge
+We are dedicated to fostering an open and welcoming environment for all contributors.
+
+## Our Standards
+- Be respectful and inclusive.
+- Avoid offensive language or behavior.
+- Welcome constructive feedback.
+
+## Reporting Issues
+If you experience any violations, please report them to the project maintainers.
+
+---
+For more details, see the [Contributor Covenant](https://www.contributor-covenant.org/).
